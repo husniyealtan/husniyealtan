@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+🚀 Industrial Engineering & Computer Engineering Student.
+📊 I focus on transforming data into strategic value and optimizing complex processes.
+
+🛠 Skills & Tools
+Programming: Python (Pandas, NumPy, Scikit-learn), SQL
+Engineering Tools: SAP ERP, SolidWorks, Advanced Excel (Solver/Optimization)
+Methodologies: Lean Manufacturing, Process Analysis, Machine Learning
+
+📈 Featured Projects
+Toyota Stock Analysis: Lead the data validation and reporting for a group project analyzing financial trends.
+
 <!--
 **husniyealtan/husniyealtan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
