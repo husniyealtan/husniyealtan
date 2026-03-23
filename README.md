@@ -1,6 +1,7 @@
 ## Hi there 👋
 
 🚀 Industrial Engineering & Computer Engineering Student.
+
 📊 I focus on transforming data into strategic value and optimizing complex processes.
 
 🛠 Skills & Tools
